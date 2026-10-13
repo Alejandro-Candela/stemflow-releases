@@ -4,7 +4,7 @@ stemflow turns a song into a ready-to-play **Ableton Live 12** set: stems, MIDI,
 written straight into a Live set built from your own Live install. It runs on your computer and uses **no generative
 AI**: the models only analyse the song.
 
-This repository only hosts the installers. The app is closed source.
+This repository only hosts the installers. The app is closed source. Website: **https://stemflow-five.vercel.app**
 
 ## Download
 
