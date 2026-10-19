@@ -20,15 +20,10 @@ The Windows version is the first Windows alpha: it hasn't met many PCs yet.
 - Ableton Live 12 (any edition).
 - About 10 GB free and an internet connection for the first launch.
 
-## Install on a Mac (alpha: not signed by Apple yet)
+## Install on a Mac (signed and notarized by Apple)
 
 1. Open the DMG and drag **stemflow** into Applications.
-2. Open stemflow. macOS says it can't check it for malicious software: click **Done**.
-3. Open **System Settings → Privacy & Security**, scroll down to "stemflow was blocked…", click **Open Anyway** and
-   confirm with your password. Once per version.
-4. The first launch sets everything up (a few minutes, several GB). Keep it open.
-
-Alpha versions don't update themselves on a Mac: download the new one and replace the app.
+2. Open **stemflow** from Applications. The first launch sets everything up (a few minutes, several GB). Keep it open.
 
 ## Install on Windows (alpha: not signed yet)
 
