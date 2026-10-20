@@ -4,7 +4,7 @@ stemflow turns a song into a ready-to-play **Ableton Live 12** set: stems, MIDI,
 written straight into a Live set built from your own Live install. It runs on your computer and uses **no generative
 AI**: the models only analyse the song.
 
-This repository only hosts the installers. The app is closed source. Website: **https://stemflow-five.vercel.app**
+This repository only hosts the installers. The app is closed source. Website: **https://stemflow.studio**
 
 ## Download
 
@@ -12,13 +12,14 @@ This repository only hosts the installers. The app is closed source. Website: **
 · **[Download for Windows (x64)](https://github.com/Alejandro-Candela/stemflow-releases/releases/latest/download/stemflow-win-x64.exe)**
 · [all versions](https://github.com/Alejandro-Candela/stemflow-releases/releases)
 
-The Windows version is the first Windows alpha: it hasn't met many PCs yet.
+The Windows version is the first Windows alpha: it hasn't met many PCs yet. It separates songs on an NVIDIA GPU
+when it finds one that works, and on the CPU otherwise.
 
 ## What you need
 
 - A Mac with Apple Silicon (M1 or later), macOS 13 or newer, or a Windows 10/11 x64 PC.
 - Ableton Live 12 (any edition).
-- About 10 GB free and an internet connection for the first launch.
+- About 10 GB free (18 GB on Windows) and an internet connection for the first launch.
 
 ## Install on a Mac (signed and notarized by Apple)
 
