@@ -19,7 +19,8 @@ when it finds one that works, and on the CPU otherwise.
 
 - A Mac with Apple Silicon (M1 or later), macOS 13 or newer, or a Windows 10/11 x64 PC.
 - Ableton Live 12 (any edition).
-- About 10 GB free (18 GB on Windows) and an internet connection for the first launch.
+- About 10 GB free and an internet connection for the first launch (on Windows, 12 GB lets it set up an NVIDIA
+  GPU).
 
 ## Install on a Mac (signed and notarized by Apple)
 
