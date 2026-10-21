@@ -8,8 +8,8 @@ This repository only hosts the installers. The app is closed source. Website: **
 
 ## Download
 
-**[Download for Mac (Apple Silicon)](https://github.com/Alejandro-Candela/stemflow-releases/releases/download/v0.2.0-alpha.23/stemflow-0.2.0-alpha.23-mac-arm64.dmg)**
-· **[Download for Windows (x64)](https://github.com/Alejandro-Candela/stemflow-releases/releases/download/v0.2.0-alpha.23/stemflow-0.2.0-alpha.23-win-x64.exe)**
+**[Download for Mac (Apple Silicon)](https://github.com/Alejandro-Candela/stemflow-releases/releases/download/v0.2.0-alpha.24/stemflow-0.2.0-alpha.24-mac-arm64.dmg)**
+· **[Download for Windows (x64)](https://github.com/Alejandro-Candela/stemflow-releases/releases/download/v0.2.0-alpha.24/stemflow-0.2.0-alpha.24-win-x64.exe)**
 · [all versions](https://github.com/Alejandro-Candela/stemflow-releases/releases)
 
 The Windows version is the first Windows alpha: it hasn't met many PCs yet. It separates songs on an NVIDIA GPU
@@ -29,7 +29,7 @@ when it finds one that works, and on the CPU otherwise.
 
 ## Install on Windows (alpha: not signed yet)
 
-1. Run **stemflow-0.2.0-alpha.23-win-x64.exe**. Windows says it protected your PC: click **More info → Run anyway**.
+1. Run **stemflow-0.2.0-alpha.24-win-x64.exe**. Windows says it protected your PC: click **More info → Run anyway**.
 2. It installs for you only (no admin password) and opens. The first launch sets everything up (a few minutes,
    several GB). Keep it open.
 
