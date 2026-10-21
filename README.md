@@ -8,7 +8,7 @@ This repository only hosts the installers. The app is closed source. Website: **
 
 ## Download
 
-**[Download for Mac (Apple Silicon)](https://github.com/Alejandro-Candela/stemflow-releases/releases/download/v0.2.0-alpha.21/stemflow-mac-arm64.dmg)**
+**[Download for Mac (Apple Silicon)](https://github.com/Alejandro-Candela/stemflow-releases/releases/download/v0.2.0-alpha.23/stemflow-0.2.0-alpha.23-mac-arm64.dmg)**
 · **[Download for Windows (x64)](https://github.com/Alejandro-Candela/stemflow-releases/releases/download/v0.2.0-alpha.23/stemflow-0.2.0-alpha.23-win-x64.exe)**
 · [all versions](https://github.com/Alejandro-Candela/stemflow-releases/releases)
 
